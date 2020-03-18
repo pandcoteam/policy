@@ -1,0 +1,16 @@
+Privacy Policy
+Company : Pand&Co Team
+Game : Cosmo Titan
+❖ No Personal Information is collected by Pand&Co Team.
+❖ Permissions we use are :-
+➢ full network access -To use AD Service and In-App Purchase.
+➢ view network connections – To ensure stability and condition of network.
+➢ Google Play billing service - For you to purchase items through Google Play from within
+this app.
+➢ control vibration - For in-game button and other effects.
+❖ This game uses Unity Ads and is built through Unity Engine. Check Unity's Privacy Policy for
+more details.
+❖ The In-App Purchase and Send Mail are managed and done by Google. We do not take
+responsibility in failure or other things of sending mail or transaction.
+❖ For further questions or issues, contact us via E-mail: pandcoteam@gmail.com
+I hope you feel safe when playing our games
